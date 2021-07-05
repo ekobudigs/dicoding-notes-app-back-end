@@ -1,0 +1,8 @@
+{
+    "editor.codeLensFontFamily": "Hack, Fira Code, Menlo",
+    "editor.fontFamily": "Hack, Fira Code, Menlo",
+    "editor.fontSize": 12,
+    "terminal.integrated.fontFamily": "Hack, Fira Code, Menlo",
+    "terminal.integrated.fontSize": 12,
+    "editor.fontLigatures": true
+}
